@@ -1,0 +1,29 @@
+body{                                  
+font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+ 
+
+
+/* centers inline-block items */
+.navbar a:hover {
+    background-color:blue;
+    padding: 15px; 
+    text-align: center;
+}
+
+  /*  key part */
+  .navbar a {
+  display: inline-block;
+  color:  gray;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin: o 5px;
+  }
+
+  
